@@ -45,7 +45,7 @@ body {
    gap:20px;
 }
 
-li {
+.barra li {
    border-bottom: 2px solid white;
 }
 
