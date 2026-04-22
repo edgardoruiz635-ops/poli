@@ -24,9 +24,10 @@ body {
    align-items:center;
    padding:30px 30px;
    display:flex;
+   border-bottom: 2px solid white;
    gap :20px;
    box-shadow: 0 4px 8px rgba(0,0,0,0.4);
-   border-bottom: 2px solid white;
+   
 
    
 }
